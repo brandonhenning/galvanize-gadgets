@@ -1,6 +1,6 @@
 ## Instructions
 
-In this assessment, you will playing cards and decks.
+In this assessment, you will create playing cards and card decks.
 
 ## Getting Started
 
