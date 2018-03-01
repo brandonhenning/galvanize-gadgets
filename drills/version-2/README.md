@@ -1,6 +1,6 @@
 ## Instructions
 
-In this assessment, you will build a file system.
+In this assessment, you will playing cards and decks.
 
 ## Getting Started
 
