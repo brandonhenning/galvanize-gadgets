@@ -1,4 +1,4 @@
-var Car = require('../car');
+var Car = require('../cars');
 var { expect } = require('chai');
 
 describe('Car', function() {
