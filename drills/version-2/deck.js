@@ -33,5 +33,5 @@ class Deck {
 module.exports = {
   Card,
   Deck
-};
+}
 
